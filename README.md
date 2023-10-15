@@ -34,5 +34,6 @@
 
 ### 📈 *Github Stats*
 
-![StreakStats](https://github-readme-streak-stats.herokuapp.com/?user={cbarnes0}&theme={tokyonight})
-![TrophyStats](https://github-profile-trophy.vercel.app/?username={cbarnes0}&theme={tokyonight})
+[![GitHub Streak](https://streak-stats.demolab.com?user=cbarnes0&theme=tokyonight)](https://git.io/streak-stats)
+
+![TrophyStats](https://github-profile-trophy.vercel.app/?username=cbarnes0&theme=tokyonight&row=1&column=5)

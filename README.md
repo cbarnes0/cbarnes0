@@ -9,11 +9,11 @@
 - 🍃 *Ask me about* ***studying for AWS CCP!***
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 
-### 🤝 *Let's Connect*
+## 🤝 *Let's Connect*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cb019803/)
 
-### 📚 *Tech Stack*
+## 📚 *Tech Stack*
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 📈 *Github Stats*
+## 📈 *Github Stats*
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cbarnes0&theme=tokyonight)](https://git.io/streak-stats)
 

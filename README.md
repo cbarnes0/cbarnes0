@@ -4,9 +4,9 @@
   <p style="text-align: center;">Engineer Eager to Develop Innovative Solutions</p>
 
 
-- 🍃 *I’m currently working on a couple of new ***React projects for my portfolio.***
-- 🍃 *I’m currently learning ***AWS && TypeScript.***
-- 🍃 *Ask me about ***studying for AWS CCP!***
+- 🍃 *I’m currently working on a couple of new* ***React projects for my portfolio.***
+- 🍃 *I’m currently learning* ***AWS && TypeScript.***
+- 🍃 *Ask me about* ***studying for AWS CCP!***
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 
 ### 🤝 *Let's Connect*

@@ -6,7 +6,7 @@
 
 - 🍃 *I’m currently working on a couple of new* ***React projects for my portfolio.***
 - 🍃 *I’m currently learning* ***AWS && TypeScript.***
-- 🍃 *Ask me about* ***studying for AWS CCP!***
+- 🍃 *I just recieved my* ***AWS CCP!***
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 
 ## 🤝 *Let's Connect*

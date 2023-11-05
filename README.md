@@ -1,7 +1,7 @@
-<div style="text-align: center;">
+<div style="align: center;">
   <h1>Hi there, I'm Carson 👋</h1>
 </div>
-  <p style="text-align: center;">Engineer Eager to Develop Innovative Solutions</p>
+  <p style="align: center;">Engineer Eager to Develop Innovative Solutions</p>
 
 
 - 🍃 *I’m currently working on a couple of new* ***React projects for my portfolio.***

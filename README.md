@@ -4,7 +4,7 @@
   <p align= "center">Engineer Eager to Develop Innovative Solutions</p>
 
 
-- 🍃 *I’m currently working on a * ***artist website for a friend!***
+- 🍃 *I’m currently working on a* ***artist website for a friend!***
 - 🍃 *I’m currently learning* ***AWS && TypeScript.***
 - 🍃 *I just recieved my* ***AWS CCP!***
 - 🍃 *[RESUME](https://docs.google.com/document/d/1MfzBijtFTGj1ZhnNXJJMrHAeSnwzA6whTHAgLosB2j4/edit?usp=sharing)*

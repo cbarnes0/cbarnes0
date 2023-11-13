@@ -1,9 +1,11 @@
 <div align= "center">
   <h1>Hi there, I'm Carson 👋</h1>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Engineer+Eager+to+Develop+Innovative+Solutions)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Engineer+Eager+to+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
 
-
+</div>
 
 - 🍃 *I’m currently working on a* ***artist website for a friend!***
 - 🍃 *I’m currently learning* ***AWS && TypeScript.***

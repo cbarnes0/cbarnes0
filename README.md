@@ -8,7 +8,7 @@
 </div>
 
 - 🍃 *I’m currently working on a* ***artist website for a friend!***
-- 🍃 *I’m currently learning* ***AWS && TypeScript.***
+- 🍃 *I’m currently learning* ***Java && TypeScript.***
 - 🍃 *I just recieved my* ***AWS CCP!***
 - 🍃 *[RESUME](https://docs.google.com/document/d/1MfzBijtFTGj1ZhnNXJJMrHAeSnwzA6whTHAgLosB2j4/edit?usp=sharing)*
 - 🍃 *Email me at carsonbarnes98@gmail.com*

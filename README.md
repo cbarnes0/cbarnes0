@@ -7,10 +7,9 @@
 
 </div>
 
-- 🍃 *I’m currently working on a* ***artist website for a friend!***
-- 🍃 *I’m currently learning* ***Java && TypeScript.***
-- 🍃 *I just recieved my* ***AWS CCP!***
-- 🍃 *[RESUME](https://docs.google.com/document/d/1MfzBijtFTGj1ZhnNXJJMrHAeSnwzA6whTHAgLosB2j4/edit?usp=sharing)*
+- 🍃 *I’m currently working on a* ***AI Study Tool***
+- 🍃 *I’m currently learning* ***Python.***
+- 🍃 *[RESUME](https://drive.google.com/file/d/1KEXB8tFf8u6jXjHGUFUvFC8htNIUelX5/view?usp=sharing)*
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 
 ## 🤝 *Let's Connect*
@@ -35,9 +34,3 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## 📈 *Github Stats*
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=cbarnes0&theme=tokyonight)](https://git.io/streak-stats)
-
-![TrophyStats](https://github-profile-trophy.vercel.app/?username=cbarnes0&theme=tokyonight&row=1&column=5)

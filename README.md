@@ -4,7 +4,7 @@
 
 <h1>Hi there, I'm Carson 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Creative+Engineer+With+A+Love+To+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Creative+Engineer+With+A+Love+To+...;Develop+Innovative+Solutions!)](https://git.io/typing-svg)
 
 </div>
 

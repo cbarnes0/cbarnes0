@@ -1,4 +1,4 @@
-![Alt text]([https://example.com/path/to/image.png](https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif))
+![Alt text](snorlax.gif)
 
 <div>
   <h1>Hi there, I'm Carson 👋</h1>

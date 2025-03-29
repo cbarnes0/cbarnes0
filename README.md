@@ -1,4 +1,4 @@
-<div>![8ccaf44f2a5af2e59dc72decab31a6b8](https://github.com/user-attachments/assets/04176e02-74ca-464d-9113-feb34dc2a71f)
+![Alt text]([https://example.com/path/to/image.png](https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif))
 
 <div>
   <h1>Hi there, I'm Carson 👋</h1>

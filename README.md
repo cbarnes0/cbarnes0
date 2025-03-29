@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Creative+Engineer+With+A+Love+To+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
 
 </div>
+
 - 🍃 *Professionally I am currently working @ Morton Software Insights, my favorite project has been creating a new AI powered search engine for the site!*
 - 🍃 *My current passion project is an* ***AI Study Tool***
 - 🍃 *I’m currently learning* ***Python and trying to get better at LeetCode.😥***

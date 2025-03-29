@@ -3,7 +3,7 @@
 </div>
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Engineer+Eager+to+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Creative+Engineer+With+a+Love+To+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
 
 </div>
 

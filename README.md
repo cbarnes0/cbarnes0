@@ -1,7 +1,8 @@
+<div>![8ccaf44f2a5af2e59dc72decab31a6b8](https://github.com/user-attachments/assets/04176e02-74ca-464d-9113-feb34dc2a71f)
+
 <div>
   <h1>Hi there, I'm Carson 👋</h1>
 </div>
-<div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Creative+Engineer+With+A+Love+To+Develop...;Innovative+Solutions!)](https://git.io/typing-svg)
 

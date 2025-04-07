@@ -8,7 +8,7 @@
 
 - 🍃 *Professionally I am currently working @ Morton Software Insights, my favorite project has been creating a new AI powered search engine for the site!*
 - 🍃 *My current passion project is an* ***AI Study Tool***
-- 🍃 *I’m currently learning* ***Python and trying to get better at LeetCode. ***😥
+- 🍃 *I’m currently learning* ***Python and trying to get better at LeetCode.*** 😥
 - 🍃 *[RESUME](https://drive.google.com/file/d/1KEXB8tFf8u6jXjHGUFUvFC8htNIUelX5/view?usp=sharing)*
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 

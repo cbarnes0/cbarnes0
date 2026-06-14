@@ -7,8 +7,9 @@
 </div>
 
 - 🍃 *Professionally I am currently working @ Morton Software Insights, my favorite project has been creating a new AI powered search engine for the site!*
-- 🍃 *MS Computer Science Candidate @ KSU*
-- 🍃 *I’m currently learning a lot between grad school and my AI Engineer Foundations course through CodePath* 😥
+- 🍃 *MS Computer Science Candidate @ KSU, ML Reserach under Dr. Shumit Saha*
+- 🍃 *I’m currently learning a lot between grad school and my AI Engineer Applications course through CodePath* 😥
+- 🍃 *Personal research into information retrieval*
 - 🍃 *[RESUME](https://docs.google.com/document/d/1BTvbvg5yuOuKWk3FXIcmiVfAgaunbYFnah48MPu5GVY/edit?usp=sharing)*
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 

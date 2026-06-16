@@ -51,17 +51,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarnes0&show_icons=true&theme=react&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarnes0&layout=compact&theme=react&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cbarnes0&theme=react&hide_border=true)
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm always up for talking about software, search, or whatever you're building.

@@ -10,7 +10,7 @@
 - 🍃 *MS Computer Science Candidate @ KSU, ML Reserach under Dr. Shumit Saha*
 - 🍃 *I’m currently learning a lot between grad school and my AI Engineer Applications course through CodePath* 😥
 - 🍃 *Personal research into information retrieval*
-- 🍃 *[RESUME](https://docs.google.com/document/d/1BTvbvg5yuOuKWk3FXIcmiVfAgaunbYFnah48MPu5GVY/edit?usp=sharing)*
+- 🍃 *[RESUME](https://drive.google.com/file/d/1UraapEOYq9MAVbN61G2KquxNJwXXWDZo/view?usp=sharing)*
 - 🍃 *Email me at carsonbarnes98@gmail.com*
 
 ## 🤝 *Let's Connect*

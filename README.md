@@ -4,7 +4,7 @@
 
 # Hi there, I'm Carson 👋
 
-### Software Engineer · CS Grad Student · Curious About Search & Retrieval
+### Software Engineer · CS Grad Student · Curious About Search, AI & ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cbarnes0/)
 [![Resume](https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1UraapEOYq9MAVbN61G2KquxNJwXXWDZo/view?usp=sharing)
